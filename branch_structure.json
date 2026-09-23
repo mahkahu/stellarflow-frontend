@@ -1,0 +1,33 @@
+{
+  "default_branch": "main",
+  "branches": [
+    "dependabot/npm_and_yarn/dompurify-3.4.15",
+    "dependabot/npm_and_yarn/eslint-10.11.0",
+    "dependabot/npm_and_yarn/lucide-react-1.47.0",
+    "dependabot/npm_and_yarn/tailwindcss-4.3.3",
+    "dependabot/npm_and_yarn/tanstack/react-table-9.2.4",
+    "fix/1016-static-export-deploy-pipeline",
+    "main",
+    "origin"
+  ],
+  "parent": {
+    "dependabot/npm_and_yarn/dompurify-3.4.15": "main",
+    "dependabot/npm_and_yarn/eslint-10.11.0": "main",
+    "dependabot/npm_and_yarn/lucide-react-1.47.0": "main",
+    "dependabot/npm_and_yarn/tailwindcss-4.3.3": "main",
+    "dependabot/npm_and_yarn/tanstack/react-table-9.2.4": "main",
+    "fix/1016-static-export-deploy-pipeline": "main",
+    "main": null,
+    "origin": "main"
+  },
+  "order": [
+    "main",
+    "dependabot/npm_and_yarn/dompurify-3.4.15",
+    "dependabot/npm_and_yarn/eslint-10.11.0",
+    "dependabot/npm_and_yarn/lucide-react-1.47.0",
+    "dependabot/npm_and_yarn/tailwindcss-4.3.3",
+    "dependabot/npm_and_yarn/tanstack/react-table-9.2.4",
+    "fix/1016-static-export-deploy-pipeline",
+    "origin"
+  ]
+}
